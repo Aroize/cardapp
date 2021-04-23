@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="credit_card_height">225dp</dimen>
+    <dimen name="credit_card_width">328dp</dimen>
+    <dimen name="card_padding">14dp</dimen>
+    <dimen name="card_shadow_padding">2dp</dimen>
+    <dimen name="change_currency_padding">30dp</dimen>
+    <dimen name="recycler_first_item_padding">9dp</dimen>
+    <dimen name="default_currency_margin">7dp</dimen>
+</resources>

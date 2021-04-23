@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cardapp</string>
+    <string name="header_main">Главная</string>
+    <string name="card_company_description">Card holder company</string>
+    <string name="valid_thru">VALID THRU</string>
+    <string name="your_balance">Your balance</string>
+    <string name="change_currency">Change currency</string>
+    <string name="my_cards">Мои карты</string>
+    <string name="description_back">Back button</string>
+    <string name="mark_description">Chosen card mark</string>
+    <string name="history">History</string>
+    <string name="transaction_description">Transaction description</string>
+</resources>
